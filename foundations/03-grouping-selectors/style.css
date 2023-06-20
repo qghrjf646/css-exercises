@@ -1,0 +1,14 @@
+.baiter {
+    background-color: black;
+    color: white;
+}
+
+.saver {
+    background-color: yellow;
+}
+
+.baiter,
+.saver {
+    font-family: "Hevetica" "Times Ne Roman" sans-serif;
+    font-size: 28px;
+}

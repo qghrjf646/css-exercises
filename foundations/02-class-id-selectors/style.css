@@ -1,0 +1,19 @@
+.normie {
+    background-color: #ffb6c1;
+    font-family: "Verdana" "DejaVu Sans" sans-serif;
+}
+
+#Unique1 {
+    color: #0000f0;
+    font-size: 36px;
+}
+
+.normie.extra {
+    font-size: 24px;
+}
+
+#Unique2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
