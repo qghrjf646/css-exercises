@@ -5,6 +5,51 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  display: flex;
+  margin-right: 5px;
+  margin-left: -20px;
+}
+
+.footer {
+  display: flex;
+  background-color: grey;
+  margin-right: 5px;
+  margin-left: -20px;
+}
+
+.left-links {
+  display: flex;
+  margin-right: auto;
+  gap: 10px;
+  list-style-type: none;
+}
+
+.right-links {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
 }
 
 img {
